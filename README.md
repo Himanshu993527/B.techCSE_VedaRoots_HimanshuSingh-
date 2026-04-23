@@ -104,31 +104,6 @@ VedaRoots/
 > 📌 **Note:** The entire project is contained in just 2 HTML files. All CSS and JavaScript is embedded — no separate files needed. This makes deployment as simple as uploading the files.
 ---
 
-
-# 🚀 Future Scope
-Short-Term (0–6 Months)
-[ ] Full backend with Node.js + Express or Python Flask
-[ ] MySQL / MongoDB database integration
-[ ] Real authentication with JWT tokens or Firebase Auth
-[ ] Expand plant database to 500+ entries with real photographs
-[ ] Hindi language support
-[ ] Accurate GeoJSON-based India map with district-level data
-Medium-Term (6–18 Months)
-[ ] Mobile App using React Native or Flutter
-[ ] AI Plant Identification — photo upload → TensorFlow.js recognition
-[ ] Symptom-to-Plant recommendation engine using NLP
-[ ] Community forum for practitioners and researchers
-[ ] Expanded quiz with leaderboards and certificates
-[ ] Multilingual support (Tamil, Telugu, Malayalam, Kannada, Bengali)
-Long-Term (18+ Months)
-[ ] Augmented Reality (AR) — point camera at plant → instant identification
-[ ] E-Commerce marketplace for authentic Ayurvedic herbs
-[ ] Research collaboration platform with universities
-[ ] Government integration with AYUSH Ministry and NMPB
-[ ] Telemedicine — connect users with certified Ayurvedic doctors
-[ ] IoT integration for smart medicinal garden monitoring
----
-
 # 🧪 Testing
 Test Type	Status
 Functional Testing (buttons, modals, links)	✅ Passed
